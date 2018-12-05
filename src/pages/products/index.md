@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -98,4 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: lol 420
+      items:
+        - one
+        - two
+        - three
+      plan: '1337'
+      price: '420'
 ---
+
